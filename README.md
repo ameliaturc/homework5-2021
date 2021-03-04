@@ -1,2 +1,2 @@
-# homework5-2021
-SI 339
+# hw5-2021
+Grid Homework
